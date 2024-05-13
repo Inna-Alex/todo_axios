@@ -23,10 +23,10 @@ Simple SPA react & axios app for keeping a todo list
 - **@reduxjs/toolkit**
 - **@testing-library/jest-dom**
 - **@testing-library/react**
+- **axios**
 - **classnames**
 - **date-fns**
-- **gh-pages**
-- **jest**
+- **jest-mock-axios**
 - **react** 
 - **react-dom** 
 - **react-hook-form** 
@@ -35,6 +35,9 @@ Simple SPA react & axios app for keeping a todo list
 - **react-redux** 
 - **react-scripts** 
 - **react-select**
+- **react-spinners**
+- **react-toggle-button**
+- **redux-logger**
 - **sass** 
 - **uuid**
 - **yup**  
